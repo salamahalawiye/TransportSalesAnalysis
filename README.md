@@ -1,7 +1,7 @@
 # TransportSalesAnalysis
 
 ## Introduction:
-The dataset used in this report is retail sales data. The data contains 25 columns and 2824 rows. It also contains both categorical and numerical data. The main aim of this analysis is to understand the sales trend between 2003 to 2005 of various products being sold in a logistics company across various countries and cities.
+The dataset used in this report is retail sales data. The data contains 25 columns and 2824 rows. It also contains both categorical and numerical data. This analysis aims to understand the sales trend between 2003 to 2005 of various products being sold in a logistics company across various countries and cities.
 
 ## Observations:
 •	The analysis shows an increase in sales from 2003 to 2004 but a sharp decline in 2005. 
@@ -13,3 +13,5 @@ The dataset used in this report is retail sales data. The data contains 25 colum
 
 ## Conclusion:
 The top products should be promoted well for increase in revenue and the less energy can be pushed towards the least product. 
+
+![image](https://github.com/sallytheanalyst/TransportSalesAnalysis/assets/116730791/c191332b-42a5-4650-9cd2-9ccfa7580a06)
